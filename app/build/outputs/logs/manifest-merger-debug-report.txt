@@ -1,99 +1,99 @@
 -- Merging decision tree log ---
 manifest
-ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
-INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
-INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
-INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5b0abb0a1dcd15dbc251bdf845129b29\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\38c090de3d0c0f17e46978f016b6e8d6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\27d446f46a052316ac48b2f614a79190\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c230f6602ce0378e08779020b9b47803\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\da44e0b76a659d1967a951b36468c445\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\758dae64e3edf0ac1428fde18144eec2\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2e66a6bda864d38ec42b70f3e8b6567\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\67fb6491ebef59676cdac577e26385f5\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a282d15a2c77dcfc10c94dc7b9dcbdc2\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6ee3c9622769f7125222cbc71e25fac9\AndroidManifest.xml:17:1-22:12
-INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
-INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
-INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
+ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7f469c4f8c515963a6887b060b1dd6c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\34c66ff37d4e52d9db110e53a984d41a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d2d7ac3e9be26a999b9f13be191fffb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f07dcc96fad4b404881053e2172268fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\27985c257c544f1330129264ab12aa73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fd8e17622590a31f627b21903d5927a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d427c5443b5a8b587ef082c96dd00776\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0fec13d649a46b1c0ab7e27517d21ed0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d6eda0639b00cc866c3f3b9e79fdca74\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3be47ef573262f7d48879f199ef30037\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:1:1-28:12
 	package
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:2:5-32
-		INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml
-		INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:4:5-30
-		INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml
-		INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:3:5-28
-		INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml
-		INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:6:5-8:41
-INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:6:5-8:41
-INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5b0abb0a1dcd15dbc251bdf845129b29\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5b0abb0a1dcd15dbc251bdf845129b29\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\38c090de3d0c0f17e46978f016b6e8d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\38c090de3d0c0f17e46978f016b6e8d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\27d446f46a052316ac48b2f614a79190\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\27d446f46a052316ac48b2f614a79190\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c230f6602ce0378e08779020b9b47803\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c230f6602ce0378e08779020b9b47803\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\da44e0b76a659d1967a951b36468c445\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\da44e0b76a659d1967a951b36468c445\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\758dae64e3edf0ac1428fde18144eec2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\758dae64e3edf0ac1428fde18144eec2\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2e66a6bda864d38ec42b70f3e8b6567\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2e66a6bda864d38ec42b70f3e8b6567\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\67fb6491ebef59676cdac577e26385f5\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\67fb6491ebef59676cdac577e26385f5\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a282d15a2c77dcfc10c94dc7b9dcbdc2\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a282d15a2c77dcfc10c94dc7b9dcbdc2\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6ee3c9622769f7125222cbc71e25fac9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Public\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6ee3c9622769f7125222cbc71e25fac9\AndroidManifest.xml:20:5-44
-INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:6:5-8:41
-INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:6:5-8:41
+ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7f469c4f8c515963a6887b060b1dd6c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7f469c4f8c515963a6887b060b1dd6c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\34c66ff37d4e52d9db110e53a984d41a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\34c66ff37d4e52d9db110e53a984d41a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d2d7ac3e9be26a999b9f13be191fffb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d2d7ac3e9be26a999b9f13be191fffb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f07dcc96fad4b404881053e2172268fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f07dcc96fad4b404881053e2172268fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\27985c257c544f1330129264ab12aa73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\27985c257c544f1330129264ab12aa73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fd8e17622590a31f627b21903d5927a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fd8e17622590a31f627b21903d5927a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d427c5443b5a8b587ef082c96dd00776\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d427c5443b5a8b587ef082c96dd00776\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0fec13d649a46b1c0ab7e27517d21ed0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0fec13d649a46b1c0ab7e27517d21ed0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d6eda0639b00cc866c3f3b9e79fdca74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d6eda0639b00cc866c3f3b9e79fdca74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3be47ef573262f7d48879f199ef30037\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Us.r\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3be47ef573262f7d48879f199ef30037\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:6:5-8:41
 	android:targetSdkVersion
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:8:9-38
-		INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml
-		INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:7:9-35
-		INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml
-		INJECTED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:10:5-67
+ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:10:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:11:5-79
+ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:11:22-76
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:11:22-76
 application
-ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:13:5-26:19
+ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:13:5-26:19
 	android:label
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:14:9-45
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:14:9-45
 	android:theme
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:16:9-40
 activity#edu.up.cs301.tictactoe.TTTMainActivity
-ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:18:9-24:20
+ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:18:9-24:20
 	android:configChanges
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:19:13-83
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:19:13-83
 	android:name
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:18:19-72
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:18:19-72
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:20:13-23:29
+ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from P:\StudioProjects\TttGame\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\Us.r\OneDrive - University of Portland\Spring 2020-DESKTOP-6LHAF2L\CS 301\TttGame\app\src\main\AndroidManifest.xml:22:27-74
